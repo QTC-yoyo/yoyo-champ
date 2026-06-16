@@ -12,3 +12,9 @@
   font-weight: <weight>;
   font-style: normal;
 }
+#carousel-item {
+  display: flex;
+  justify-content: center; /* Horizontally centers content */
+  align-items: center;    /* Vertically centers content */
+  height: 100%;
+}
